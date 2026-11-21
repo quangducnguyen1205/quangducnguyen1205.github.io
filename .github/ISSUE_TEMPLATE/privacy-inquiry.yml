@@ -17,7 +17,16 @@ body:
       label: Which policy is this about?
       options:
         - WAKE
+        - POLAR
+        - RIPPLE
+        - THREAD
+        - EXACTLY ZERO
+        - NEXT
+        - HOLD
+        - NEVER ERRS
+        - RAIN TRACE
         - Barebyte Content OS
+        - Barebyte Growth Mailer
         - This website
         - Something else
     validations:
